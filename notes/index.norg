@@ -1,0 +1,15 @@
+@document.meta
+title: index
+description: 
+authors: viv
+categories: 
+created: 2022-07-16
+version: 0.0.11
+@end
+
+* Type of algorithms
+  - Supervised learning [ used most likely and seen most rapid development]
+  - Unsupervised Learning
+  - Recommender Systems 
+  - Reinforcement Learning
+
